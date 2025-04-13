@@ -1,0 +1,16 @@
+streamlit~=1.44.1
+dlisio~=1.0.3
+pandas~=2.2.3
+numpy~=2.2.4
+matplotlib
+lasio~=0.31
+plotly~=6.0.1
+kaleido
+langchain~=0.3.23
+langchain-community
+openai
+python-dotenv~=1.1.0
+langchain_core
+langchain_openai
+pydantic~=2.11.3
+langchain-core~=0.3.51
